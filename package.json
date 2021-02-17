@@ -1,5 +1,5 @@
 {
-  "name": "cart.js",
+  "name": "@yabhq/cart.js",
   "version": "0.1.0",
   "description": "Methods to handle cart logic",
   "main": "dist/cart.js",
@@ -17,7 +17,10 @@
     "ReactJS",
     "VueJS"
   ],
-  "author": "Yab <hello@yabhq.com>",
+  "author": {
+    "name": "Yab",
+    "email": "hello@yabhq.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yabhq/cart.js/issues"
