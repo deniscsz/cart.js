@@ -1,6 +1,6 @@
 {
   "name": "@yabhq/cart.js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Methods to handle cart logic",
   "main": "dist/cart.js",
   "scripts": {
